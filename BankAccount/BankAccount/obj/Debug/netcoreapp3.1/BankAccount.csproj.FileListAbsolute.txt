@@ -1,0 +1,13 @@
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana2\TestSettimana2\BankAccount\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.csprojAssemblyReference.cache
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana2\TestSettimana2\BankAccount\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.AssemblyInfoInputs.cache
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana2\TestSettimana2\BankAccount\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.AssemblyInfo.cs
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana2\TestSettimana2\BankAccount\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana2\TestSettimana2\BankAccount\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.exe
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana2\TestSettimana2\BankAccount\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.deps.json
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana2\TestSettimana2\BankAccount\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.runtimeconfig.json
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana2\TestSettimana2\BankAccount\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.runtimeconfig.dev.json
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana2\TestSettimana2\BankAccount\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.dll
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana2\TestSettimana2\BankAccount\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.pdb
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana2\TestSettimana2\BankAccount\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.dll
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana2\TestSettimana2\BankAccount\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.pdb
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana2\TestSettimana2\BankAccount\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.genruntimeconfig.cache
